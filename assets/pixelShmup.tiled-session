@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "pixelShmupMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "pixelShmupMap.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 237.25,
+                "y": 150.75
+            }
+        },
+        "pixelShmupMap.tmx#pixelShmupTileset": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/erinb/Downloads/Coding Projects/BulletTime/assets",
+    "last.imagePath": "C:/Users/erinb/Downloads/Coding Projects/BulletTime/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "pixelShmupMap.tmx"
+    ],
+    "project": "pixelShmup.tiled-project",
+    "recentFiles": [
+        "pixelShmupMap.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
